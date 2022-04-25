@@ -14,7 +14,7 @@ public class ViewAppliedPositionPage extends BaseClass {
     @FindBy(xpath = "//div[@class='project-detailstitle']")
     WebElement projectName;
 
-    @FindBy(xpath = "//a[@href ='/employee/projectdetails/77']")
+    @FindBy(xpath = "//a[@href ='/employee/projectdetails/94']")
     WebElement viewProjectBtn;
 
     @FindBy(xpath = "(//button[normalize-space()='Delete'])[1]")
@@ -52,9 +52,11 @@ public class ViewAppliedPositionPage extends BaseClass {
         deleteBtn.click();
         Utils.wait(5000);
         cancelBtn.click();
+        Utils.wait(5000);
         cancelOkBtn.click();
         Utils.wait(5000);
         deleteBtn.click();
+        Utils.wait(5000);
         confirmOkBtn.click();
     }
 }

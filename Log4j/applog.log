@@ -600,3 +600,36 @@ INFO    2022-04-25 11:59:03,920 [main] UserLoginTest.TestRunner  - Searching Ite
 INFO    2022-04-25 11:59:09,296 [main] UserLoginTest.TestRunner  - Searching for items not present in the list
 INFO    2022-04-25 11:59:09,742 [main] UserLoginTest.TestRunner  - Checking whether Apply button is working or not
 INFO    2022-04-25 11:59:21,087 [main] UserLoginTest.TestRunner  - Validating view applied position URL
+INFO    2022-04-25 13:20:37,044 [main] UserLoginTest.TestRunner  - Driver is initialized!!
+INFO    2022-04-25 13:20:41,764 [main] UserLoginTest.TestRunner  - Navigating to the required url!!
+INFO    2022-04-25 13:20:42,585 [main] UserLoginTest.TestRunner  - Login into the application
+INFO    2022-04-25 13:20:42,585 [main] UserLoginTest.TestRunner  - Filling the details from excel sheet
+INFO    2022-04-25 13:20:44,385 [main] UserLoginTest.TestRunner  - Going to the Projects Page
+INFO    2022-04-25 13:20:44,385 [main] UserLoginTest.TestRunner  - Validating the URL
+INFO    2022-04-25 13:20:45,963 [main] UserLoginTest.TestRunner  - Selecting the technology
+INFO    2022-04-25 13:20:52,375 [main] UserLoginTest.TestRunner  - Searching Items present in the list
+INFO    2022-04-25 13:20:57,737 [main] UserLoginTest.TestRunner  - Searching for items not present in the list
+INFO    2022-04-25 13:20:58,324 [main] UserLoginTest.TestRunner  - Checking whether Apply button is working or not
+INFO    2022-04-25 13:21:09,419 [main] UserLoginTest.TestRunner  - Validating view applied position URL
+INFO    2022-04-25 13:30:24,397 [main] UserLoginTest.TestRunner  - Driver is initialized!!
+INFO    2022-04-25 13:30:28,955 [main] UserLoginTest.TestRunner  - Navigating to the required url!!
+INFO    2022-04-25 13:30:29,804 [main] UserLoginTest.TestRunner  - Login into the application
+INFO    2022-04-25 13:30:29,805 [main] UserLoginTest.TestRunner  - Filling the details from excel sheet
+INFO    2022-04-25 13:30:31,563 [main] UserLoginTest.TestRunner  - Going to the Projects Page
+INFO    2022-04-25 13:30:31,564 [main] UserLoginTest.TestRunner  - Validating the URL
+INFO    2022-04-25 13:30:32,807 [main] UserLoginTest.TestRunner  - Selecting the technology
+INFO    2022-04-25 13:30:39,231 [main] UserLoginTest.TestRunner  - Searching Items present in the list
+INFO    2022-04-25 13:30:44,636 [main] UserLoginTest.TestRunner  - Searching for items not present in the list
+INFO    2022-04-25 13:30:45,153 [main] UserLoginTest.TestRunner  - Checking whether Apply button is working or not
+INFO    2022-04-25 13:30:56,308 [main] UserLoginTest.TestRunner  - Validating view applied position URL
+INFO    2022-04-25 13:32:18,426 [main] UserLoginTest.TestRunner  - Driver is initialized!!
+INFO    2022-04-25 13:32:22,981 [main] UserLoginTest.TestRunner  - Navigating to the required url!!
+INFO    2022-04-25 13:32:23,846 [main] UserLoginTest.TestRunner  - Login into the application
+INFO    2022-04-25 13:32:23,846 [main] UserLoginTest.TestRunner  - Filling the details from excel sheet
+INFO    2022-04-25 13:32:25,690 [main] UserLoginTest.TestRunner  - Going to the Projects Page
+INFO    2022-04-25 13:32:25,691 [main] UserLoginTest.TestRunner  - Validating the URL
+INFO    2022-04-25 13:32:26,932 [main] UserLoginTest.TestRunner  - Selecting the technology
+INFO    2022-04-25 13:32:33,437 [main] UserLoginTest.TestRunner  - Searching Items present in the list
+INFO    2022-04-25 13:32:38,865 [main] UserLoginTest.TestRunner  - Searching for items not present in the list
+INFO    2022-04-25 13:32:39,375 [main] UserLoginTest.TestRunner  - Checking whether Apply button is working or not
+INFO    2022-04-25 13:32:50,486 [main] UserLoginTest.TestRunner  - Validating view applied position URL
